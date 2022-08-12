@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Muhammad Dzakwan Ar Rosyid, [Linkedin](https://www.linkedin.com/in/dzakwan-ar-8216a2212/).
